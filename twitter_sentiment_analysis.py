@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  8 01:11:43 2018
 
-@author: vaibhav
-"""
- 
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
